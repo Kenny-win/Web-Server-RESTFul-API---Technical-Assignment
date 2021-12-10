@@ -1,0 +1,19 @@
+1. Apa perbedaan antara static web server dan dynamic web server?
+2. Jelaskan arsitektur static site dan dynamic site
+3. Apa saja yang dapat kita buat pada sisi server?
+4. Mohon jelaskan apa itu RESTful?
+5. Apa saja jenis HTTP verbs yang ada (jelaskan fungsinya masing-masing)
+6. Apa fungsi dari Response Codes?
+
+Jawaban :
+
+1. Server web statis, atau tumpukan, terdiri dari komputer (perangkat keras) dengan server HTTP (perangkat lunak). Kami menyebutnya "statis" karena server mengirimkan file yang dihosting apa adanya ke browser Anda. Server web dinamis terdiri dari server web statis ditambah perangkat lunak tambahan, biasanya server aplikasi dan database.
+2. Website Dinamis (Dynamic Website) adalah jenis halaman web yang disusun oleh konten dan layout yang kaya akan informasi didalamnya. Dinamakan website Dinamis karena kontennya dapat berubah-ubah, sedangkan website Statis (Static Website) adalah sebuah website yang kontennya statis / tidak berubah-ubah. 
+3. sisi server menangani tugas-tugas seperti memvalidasi data dan permintaan yang dikirimkan, menggunakan database untuk menyimpan dan mengambil data dan mengirimkan data yang benar ke klien sesuai kebutuhan.
+4. REST API (juga dikenal sebagai RESTful API) adalah antarmuka pemrograman aplikasi (API atau web API) yang sesuai dengan batasan gaya arsitektur REST dan memungkinkan interaksi dengan layanan web RESTful.
+5. GET	  Ambil Data
+   POST	  Buat Data Baru
+   PUT	  Update Data secara keseluruhan
+   PATCH  Update Data sebagian
+   DELETE Hapus Data
+6. HTTP status codes atau kode status HTTP adalah sebuah kode response standar yang diberikan oleh server website di internet. Kode-kode ini berfungsi mengidentifikasikan masalah ketika ada sebuah halaman web atau resource yang tidak termuat dengan benar.
